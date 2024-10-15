@@ -20,10 +20,10 @@ Intro
 14 Modules
 15 External Libraries
 16 Testing
-15:58:24 Testing Frameworks
-17:36:30 17 Object-Oriented Programming
-18:06:09 Classes
-18:51:50 Inheritance
-19:32:59 18 Intro to Backend, Callbacks, Async Await
-20:30:57 Promises and fetch
-21:12:47 Async Await
+Testing Frameworks
+17 Object-Oriented Programming
+Classes
+Inheritance
+18 Intro to Backend, Callbacks, Async Await
+Promises and fetch
+Async Await
